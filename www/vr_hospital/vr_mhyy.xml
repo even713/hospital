@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="290" fov="70" tilt="12.5"/>
+      <min pan="0" fov="52" tilt="-90"/>
+      <max pan="360" fov="106" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2010:07:24 11:19:57" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="1楼休闲区" target="" pan="-161.34" skinid="1f_rest" url="{node2}" id="Point01" tilt="-10.7928"/>
+      <hotspot title="2楼大堂" target="" pan="159.154" skinid="2f_hall" url="{node3}" id="Point02" tilt="3.8807"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/1fdt_o_0.jpg" prev5url="images/1fdt_o_preview_5.jpg" prev4url="images/1fdt_o_preview_4.jpg" prev3url="images/1fdt_o_preview_3.jpg" prev2url="images/1fdt_o_preview_2.jpg" prev1url="images/1fdt_o_preview_1.jpg" prev0url="images/1fdt_o_preview_0.jpg" tile5url="images/1fdt_o_5.jpg" tilesize="685" tile4url="images/1fdt_o_4.jpg" tile3url="images/1fdt_o_3.jpg" tilescale="1.014598540145985" tile2url="images/1fdt_o_2.jpg" tile1url="images/1fdt_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="14.5" fov="70" tilt="-2"/>
+      <min pan="0" fov="70" tilt="-90"/>
+      <max pan="360" fov="70" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2010:07:24 11:19:57" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="1楼大堂" target="" pan="119.322" skinid="1f_hall" url="{node1}" id="Point01" tilt="-14.3879"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/1fxxq_o_0.jpg" prev5url="images/1fxxq_o_preview_5.jpg" prev4url="images/1fxxq_o_preview_4.jpg" prev3url="images/1fxxq_o_preview_3.jpg" prev2url="images/1fxxq_o_preview_2.jpg" prev1url="images/1fxxq_o_preview_1.jpg" prev0url="images/1fxxq_o_preview_0.jpg" tile5url="images/1fxxq_o_5.jpg" tilesize="685" tile4url="images/1fxxq_o_4.jpg" tile3url="images/1fxxq_o_3.jpg" tilescale="1.014598540145985" tile2url="images/1fxxq_o_2.jpg" tile1url="images/1fxxq_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="70" tilt="-90"/>
+      <max pan="360" fov="70" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2010:07:24 11:19:58" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="1楼大堂" target="" pan="54.7925" skinid="1f_hall" url="{node1}" id="Point01" tilt="-38.6668"/>
+      <hotspot title="2楼美容中心" target="" pan="35.9893" skinid="2f_center" url="{node4}" id="Point02" tilt="-6.70011"/>
+      <hotspot title="2楼休闲区" target="" pan="-9.135770000000001" skinid="2f_relax" url="{node5}" id="Point03" tilt="-5.16258"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/2fdt_o_0.jpg" prev5url="images/2fdt_o_preview_5.jpg" prev4url="images/2fdt_o_preview_4.jpg" prev3url="images/2fdt_o_preview_3.jpg" prev2url="images/2fdt_o_preview_2.jpg" prev1url="images/2fdt_o_preview_1.jpg" prev0url="images/2fdt_o_preview_0.jpg" tile5url="images/2fdt_o_5.jpg" tilesize="685" tile4url="images/2fdt_o_4.jpg" tile3url="images/2fdt_o_3.jpg" tilescale="1.014598540145985" tile2url="images/2fdt_o_2.jpg" tile1url="images/2fdt_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="144" fov="61" tilt="-1"/>
+      <min pan="0" fov="58" tilt="-90"/>
+      <max pan="360" fov="108" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2010:07:24 11:19:58" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="2楼休闲区" target="" pan="-101.063" skinid="2f_relax" url="{node5}" id="Point01" tilt="-4.87671"/>
+      <hotspot title="2楼大堂" target="" pan="-128.596" skinid="2f_hall" url="{node3}" id="Point02" tilt="-2.04402"/>
+      <hotspot title="3楼湖景病房" target="" pan="-0.215418" skinid="3f_view" url="{node8}" id="Point03" tilt="-15.68"/>
+      <hotspot title="3楼VIP病房" target="" pan="100.621" skinid="3f_VIP" url="{node7}" id="Point04" tilt="-17.1311"/>
+      <hotspot title="3楼手术室" target="" pan="40.3516" skinid="3f_room" url="{node6}" id="Point05" tilt="-0.893071"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/2fpfmrzx_o_0.jpg" prev5url="images/2fpfmrzx_o_preview_5.jpg" prev4url="images/2fpfmrzx_o_preview_4.jpg" prev3url="images/2fpfmrzx_o_preview_3.jpg" prev2url="images/2fpfmrzx_o_preview_2.jpg" prev1url="images/2fpfmrzx_o_preview_1.jpg" prev0url="images/2fpfmrzx_o_preview_0.jpg" tile5url="images/2fpfmrzx_o_5.jpg" tilesize="685" tile4url="images/2fpfmrzx_o_4.jpg" tile3url="images/2fpfmrzx_o_3.jpg" tilescale="1.014598540145985" tile2url="images/2fpfmrzx_o_2.jpg" tile1url="images/2fpfmrzx_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="170.5" fov="70" tilt="-11.5"/>
+      <min pan="0" fov="45" tilt="-90"/>
+      <max pan="360" fov="100" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2010:07:24 11:19:59" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="2楼大堂" target="" pan="-139.159" skinid="2f_hall" url="{node3}" id="Point01" tilt="-3.24729"/>
+      <hotspot title="2楼美容中心" target="" pan="142.281" skinid="2f_center" url="{node4}" id="Point02" tilt="2.90256"/>
+      <hotspot title="3楼VIP病房" target="" pan="170.773" skinid="3f_vip" url="{node7}" id="Point03" tilt="1.88629"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/2fxxq_o_0.jpg" prev5url="images/2fxxq_o_preview_5.jpg" prev4url="images/2fxxq_o_preview_4.jpg" prev3url="images/2fxxq_o_preview_3.jpg" prev2url="images/2fxxq_o_preview_2.jpg" prev1url="images/2fxxq_o_preview_1.jpg" prev0url="images/2fxxq_o_preview_0.jpg" tile5url="images/2fxxq_o_5.jpg" tilesize="685" tile4url="images/2fxxq_o_4.jpg" tile3url="images/2fxxq_o_3.jpg" tilescale="1.014598540145985" tile2url="images/2fxxq_o_2.jpg" tile1url="images/2fxxq_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="276.5" fov="70" tilt="3"/>
+      <min pan="0" fov="45" tilt="-90"/>
+      <max pan="360" fov="100" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2010:07:24 11:20:00" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="3楼VIP病房" target="" pan="95.56999999999999" skinid="3f_vip" url="{node7}" id="Point01" tilt="-7.30963"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/3fsss_o_0.jpg" prev5url="images/3fsss_o_preview_5.jpg" prev4url="images/3fsss_o_preview_4.jpg" prev3url="images/3fsss_o_preview_3.jpg" prev2url="images/3fsss_o_preview_2.jpg" prev1url="images/3fsss_o_preview_1.jpg" prev0url="images/3fsss_o_preview_0.jpg" tile5url="images/3fsss_o_5.jpg" tilesize="685" tile4url="images/3fsss_o_4.jpg" tile3url="images/3fsss_o_3.jpg" tilescale="1.014598540145985" tile2url="images/3fsss_o_2.jpg" tile1url="images/3fsss_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="90" fov="70" tilt="-2.5"/>
+      <min pan="0" fov="55" tilt="-90"/>
+      <max pan="360" fov="100" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2010:07:24 11:20:00" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="3楼手术室" target="" pan="-2.41762" skinid="3f_room" url="{node6}" id="Point01" tilt="-3.0057"/>
+      <hotspot title="3楼湖景病房" target="" pan="-11.0924" skinid="3f_view" url="{node8}" id="Point02" tilt="-23.3049"/>
+      <hotspot title="2楼休闲区" target="" pan="7.08899" skinid="2f_relax" url="{node5}" id="Point03" tilt="-23.3327"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/3VIPbf_o_0.jpg" prev5url="images/3VIPbf_o_preview_5.jpg" prev4url="images/3VIPbf_o_preview_4.jpg" prev3url="images/3VIPbf_o_preview_3.jpg" prev2url="images/3VIPbf_o_preview_2.jpg" prev1url="images/3VIPbf_o_preview_1.jpg" prev0url="images/3VIPbf_o_preview_0.jpg" tile5url="images/3VIPbf_o_5.jpg" tilesize="685" tile4url="images/3VIPbf_o_4.jpg" tile3url="images/3VIPbf_o_3.jpg" tilescale="1.014598540145985" tile2url="images/3VIPbf_o_2.jpg" tile1url="images/3VIPbf_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="146" fov="70" tilt="11"/>
+      <min pan="0" fov="45" tilt="-90"/>
+      <max pan="360" fov="100" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2010:07:24 11:20:01" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="3楼VIP病房" target="" pan="33.0744" skinid="3f_vip" url="{node7}" id="Point01" tilt="-3.03795"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/3hjbf_o_0.jpg" prev5url="images/3hjbf_o_preview_5.jpg" prev4url="images/3hjbf_o_preview_4.jpg" prev3url="images/3hjbf_o_preview_3.jpg" prev2url="images/3hjbf_o_preview_2.jpg" prev1url="images/3hjbf_o_preview_1.jpg" prev0url="images/3hjbf_o_preview_0.jpg" tile5url="images/3hjbf_o_5.jpg" tilesize="685" tile4url="images/3hjbf_o_4.jpg" tile3url="images/3hjbf_o_3.jpg" tilescale="1.014598540145985" tile2url="images/3hjbf_o_2.jpg" tile1url="images/3hjbf_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
